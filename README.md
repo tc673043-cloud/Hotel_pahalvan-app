@@ -1,4 +1,4 @@
-# Hotel_pahalvan-app
+# index .htmi
 All hotel items
 Mutton plate 
 Chicken plate
